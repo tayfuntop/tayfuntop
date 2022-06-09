@@ -1,6 +1,6 @@
-# Hi, I'm Tayfun Top ✌
+# Hi, I'm Tayfun ✌
 
-### I'm Mechanical Engineer but I like to software therefore I want to Frond End Developer.
+### I'm Mechanical Engineer but I like to software therefore I want to be Frond End Developer.
 
 **Connect with me:**
  
