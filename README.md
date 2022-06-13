@@ -1,4 +1,4 @@
-# Hi, I'm Tayfun ✌
+# <span style="display:flex; align-items:center;">Hi, I'm Tayfun <a target="_blank" href="https://www.youtube.com/c/TayfunTp"><img src="/image/youtube logo 2.png" width="50" style="padding-left:15px;"></a></span>
 
 ### I'm Mechanical Engineer but I like to software therefore I want to be Frond End Developer.
 
@@ -8,4 +8,4 @@
 
 **Languages and Tools:**
 
-<a target="_blank" href="https://html.com/"><img src="/image/html.png" width="25"></a> <a target="_blank" href="https://www.javascript.com/"><img src="/image/javascript.png" width="25"> </a><a href="#"><img src="/image/css.png" width="25"></a> <a href="https://en.wikipedia.org/wiki/Visual_Basic_for_Applications"><img src="/image/vba.png" width="28"></a>
+<a target="_blank" href="https://html.com/"><img src="/image/html.png" width="25"></a> <a target="_blank" href="https://www.javascript.com/"><img src="/image/javascript.png" width="25"></a> <a href="#"><img src="/image/css.png" width="25"></a> <a href="https://en.wikipedia.org/wiki/Visual_Basic_for_Applications"><img src="/image/vba.png" width="28"></a>
