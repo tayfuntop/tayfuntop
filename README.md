@@ -1,4 +1,4 @@
-# <a target="_blank" href="https://www.youtube.com/c/TayfunTp"><img src="/image/youtube-logo.svg" width="30" ></a> Hi, I'm Tayfun ✌ 
+# <a target="_blank" href="https://www.youtube.com/c/TayfunTp"><img src="/image/youtube logo 2.png" width="30" ></a> Hi, I'm Tayfun ✌ 
 
 ### I'm Mechanical Engineer but I like to software therefore I want to be Frond End Developer.
 
