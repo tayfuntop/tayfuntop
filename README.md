@@ -12,6 +12,6 @@
 
 <h5 align = "center"><a target="_blank" href="https://html.com/"><img src="/image/html.png" width="25"></a> <a target="_blank" href="https://www.javascript.com/"><img src="/image/javascript.png" width="25"></a> <a href="#"><img src="/image/css.png" width="25"></a> <a href="https://en.wikipedia.org/wiki/Visual_Basic_for_Applications"><img src="/image/vba.png" width="28"></a></h5>
 
-<h2 align = "center"><img src="gif/gif.gif" style="width:600px" align = "center"></h2>
+<h2 align = "center"><img src="gif/gif.gif" style="width:auto" align = "center"></h2>
 
 
