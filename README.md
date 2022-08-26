@@ -2,7 +2,7 @@
 
 <h2 align = "center"><img src="gif/gif.gif" style="width:auto" align = "center"></h2>
 
-<h5 align = "center">I'm Mechanical Engineer but I like to software therefore I want to b   e Frond End Developer.</h5>
+<h3 align = "center">I'm Mechanical Engineer but I like to software therefore I want to b   e Frond End Developer.</h3>
 
 ---
 
