@@ -1,6 +1,6 @@
 <h1 align = "center"><a target="_blank" href="https://www.youtube.com/c/TayfunTp"><img src="/image/youtube logo 2.png" width="30" ></a> Hi, I'm Tayfun ✌</h1>
 
-<h2 align = "center"><img src="gif/gif.gif" style="width:auto" align = "center"></h2>
+<h2 align = "center"><img src="gif/gif.gif" style="width:250px" align = "center"></h2>
 
 <h3 align = "center">I'm Mechanical Engineer but I like to software therefore I want to b   e Frond End Developer.</h3>
 
