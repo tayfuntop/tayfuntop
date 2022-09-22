@@ -8,7 +8,7 @@
 <details align="center" > 
   <summary><h3>👨🏼‍💻 About Me</h3></summary>
     <br>
-    <p>Hi, My deperment is Mechanical engineering but I like to software. I worked a few times mechanical engineer  and finally, I decided to continue my life as a software developer. I am always very eager to learn more in this field.  I would like to state that I am extremely devoted and enthusiastic about being effective and fast in business life and that I want to take on the responsibility required by the position with curiosity and enthusiasm. I am aware that willing, attentive, and careful work will definitely result in success. For this reason, I have no doubt that I can contribute to the places I work with my skills and work discipline. </p>
+    <h5>Hi, My deperment is Mechanical engineering but I like to software. I worked a few times mechanical engineer  and finally, I decided to continue my life as a software developer. I am always very eager to learn more in this field.  I would like to state that I am extremely devoted and enthusiastic about being effective and fast in business life and that I want to take on the responsibility required by the position with curiosity and enthusiasm. I am aware that willing, attentive, and careful work will definitely result in success. For this reason, I have no doubt that I can contribute to the places I work with my skills and work discipline. <h5>
 </details>
 
 <h2 align = "center">
