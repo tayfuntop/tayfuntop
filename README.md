@@ -1,4 +1,4 @@
-<h1 align = "center" style= "font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight:700"><a target="_blank" href="https://www.youtube.com/c/TayfunTp"><img src="/image/youtube logo 2.png" width="30" ></a> Hi, I'm Tayfun <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<h1 align = "center"><a target="_blank" href="https://www.youtube.com/c/TayfunTp"><img src="/image/youtube logo 2.png" width="30" ></a> Hi, I'm Tayfun <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
 
 <p align="center">
@@ -6,12 +6,12 @@
 </p>
 
 <details align="center" > 
-  <summary style="margin-left:-40px; font-weight:700">👨🏼‍💻 About Me</summary>
+  <summary>👨🏼‍💻 About Me</summary>
     <br>
-    <p style="font-size: 14px; font-weight: 700; margin-left:-20px;">Hi, My deperment is Mechanical engineering but I like to software. I worked a few times mechanical engineer  and finally, I decided to continue my life as a software developer. I am always very eager to learn more in this field.  I would like to state that I am extremely devoted and enthusiastic about being effective and fast in business life and that I want to take on the responsibility required by the position with curiosity and enthusiasm. I am aware that willing, attentive, and careful work will definitely result in success. For this reason, I have no doubt that I can contribute to the places I work with my skills and work discipline. </p>
+    <p>Hi, My deperment is Mechanical engineering but I like to software. I worked a few times mechanical engineer  and finally, I decided to continue my life as a software developer. I am always very eager to learn more in this field.  I would like to state that I am extremely devoted and enthusiastic about being effective and fast in business life and that I want to take on the responsibility required by the position with curiosity and enthusiasm. I am aware that willing, attentive, and careful work will definitely result in success. For this reason, I have no doubt that I can contribute to the places I work with my skills and work discipline. </p>
 </details>
 
-<h2 align = "center" style="margin: -40px 0 -40px -15px;">
+<h2 align = "center">
 <img style="width:400px" src="gif/giff.gif" align = "center"></h2>
 
 <div style="display:flex; justify-content:center;"><p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Razumihin41&show_icons=true&locale=en" alt="Razumihin41" /></p><p align="center" style="margin:25px 0 0 10px"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Razumihin41&show_icons=true&locale=en&layout=compact" alt="Razumihin41" /></p></div>
