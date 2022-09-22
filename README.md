@@ -11,7 +11,7 @@
     <p style="font-size: 14px; font-weight: 600; margin-left:-20px;">Hi, My deperment is Mechanical engineering but I like to software. I worked a few times mechanical engineer  and finally, I decided to continue my life as a software developer. I am always very eager to learn more in this field.  I would like to state that I am extremely devoted and enthusiastic about being effective and fast in business life and that I want to take on the responsibility required by the position with curiosity and enthusiasm. I am aware that willing, attentive, and careful work will definitely result in success. For this reason, I have no doubt that I can contribute to the places I work with my skills and work discipline. </p>
 </details>
 
-<h2 align = "center" style="margin: -5px 0 -40px -15px;">
+<h2 align = "center" style="margin: -10px 0 -40px -15px;">
 <img style="width:400px" src="gif/giff.gif" align = "center"></h2>
 
 ---
