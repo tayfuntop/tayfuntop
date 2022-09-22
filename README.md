@@ -13,10 +13,10 @@
 <h2 align = "center"><a href="https://www.linkedin.com/in/tayfun-top-b7574220a/"><img style="width:400px" src="gif/giff.gif" ></a></h2>
 
 <h3>🔥 Github Stats</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Razumihin41&show_icons=true&locale=en&theme=dark" alt="Razumihin41" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Razumihin41&show_icons=true&locale=en&" alt="Razumihin41" /></p>
 
 <h3>💻 Most Used Languages</h3>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Razumihin41&show_icons=true&locale=en&layout=compact&theme=dark" alt="Razumihin41" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Razumihin41&show_icons=true&locale=en&layout=compact&" alt="Razumihin41" /></p>
 
 <h3>Connect with me:</h3>
 <h3><a target="_blank" href="https://www.linkedin.com/in/tayfun-top-b7574220a/"><img src="/image/Linkedin.png" width="40"> </a><a target="_blank" href="https://www.instagram.com/tayfun_tp/"><img src="/image/instagram.png" width="40"></a> <a target="_blank" href="https://www.youtube.com/c/TayfunTp"><img src="/image/youtube.png" width="55"></a></h3>
