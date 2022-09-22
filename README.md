@@ -6,21 +6,22 @@
 </p>
 
 <details align="center" > 
-  <summary>👨🏼‍💻 About Me</summary>
+  <summary><h5>👨🏼‍💻 About Me</h5></summary>
     <br>
-    <p>Hi, My deperment is Mechanical engineering but I like to software. I worked a few times mechanical engineer  and finally, I decided to continue my life as a software developer. I am always very eager to learn more in this field.  I would like to state that I am extremely devoted and enthusiastic about being effective and fast in business life and that I want to take on the responsibility required by the position with curiosity and enthusiasm. I am aware that willing, attentive, and careful work will definitely result in success. For this reason, I have no doubt that I can contribute to the places I work with my skills and work discipline. </p>
+    <h5>Hi, My deperment is Mechanical engineering but I like to software. I worked a few times mechanical engineer  and finally, I decided to continue my life as a software developer. I am always very eager to learn more in this field.  I would like to state that I am extremely devoted and enthusiastic about being effective and fast in business life and that I want to take on the responsibility required by the position with curiosity and enthusiasm. I am aware that willing, attentive, and careful work will definitely result in success. For this reason, I have no doubt that I can contribute to the places I work with my skills and work discipline. </h5>
 </details>
 
 <h2 align = "center">
 <img style="width:400px" src="gif/giff.gif" align = "center"></h2>
 
-<div style="display:flex; justify-content:center;"><p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Razumihin41&show_icons=true&locale=en" alt="Razumihin41" /></p><p align="center" style="margin:25px 0 0 10px"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Razumihin41&show_icons=true&locale=en&layout=compact" alt="Razumihin41" /></p></div>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Razumihin41&show_icons=true&locale=en" alt="Razumihin41" /></p><p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Razumihin41&show_icons=true&locale=en&layout=compact" alt="Razumihin41" /></p>
 
 
-<div style="display:flex; justify-content:space-between; margin: 0 20%;"><span><h5 align = "center">Connect with me:</h5>
-<h5 align = "center"><a target="_blank" href="https://www.linkedin.com/in/tayfun-top-b7574220a/"><img src="/image/Linkedin.png" width="40"> </a><a target="_blank" href="https://www.instagram.com/tayfun_tp/"><img src="/image/instagram.png" width="40"></a> <a target="_blank" href="https://www.youtube.com/c/TayfunTp"><img src="/image/youtube.png" width="55"></a></h5></span>
-<span><h5 align = "center">Languages and Tools:</h5> 
-<h5 align = "center"><a href="https://en.wikipedia.org/wiki/Visual_Basic_for_Applications"><img src="/image/vba.png" width="40"></a><a target="_blank" href="https://html.com/"><img src="/image/html.png" width="40"></a><a href="#"><img src="/image/css.png" width="40"></a><a target="_blank" href="https://www.javascript.com/"><img src="/image/javascript.png" width="40"></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40"/> </a></h5></span></div>
+<h5 align = "center">Connect with me:</h5>
+<h5 align = "center"><a target="_blank" href="https://www.linkedin.com/in/tayfun-top-b7574220a/"><img src="/image/Linkedin.png" width="40"> </a><a target="_blank" href="https://www.instagram.com/tayfun_tp/"><img src="/image/instagram.png" width="40"></a> <a target="_blank" href="https://www.youtube.com/c/TayfunTp"><img src="/image/youtube.png" width="55"></a></h5>
+
+<h5 align = "center">Languages and Tools:</h5> 
+<h5 align = "center"><a href="https://en.wikipedia.org/wiki/Visual_Basic_for_Applications"><img src="/image/vba.png" width="40"></a><a target="_blank" href="https://html.com/"><img src="/image/html.png" width="40"></a><a href="#"><img src="/image/css.png" width="40"></a><a target="_blank" href="https://www.javascript.com/"><img src="/image/javascript.png" width="40"></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40"/> </a></h5></div>
 
 
 <p align="center" style="padding-top:20px"> <img src="https://komarev.com/ghpvc/?username=Razumihin41&label=Profile%20views&color=0e75b6&style=flat" alt="Razumihin41" /> </p>
