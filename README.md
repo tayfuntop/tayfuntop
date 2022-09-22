@@ -11,8 +11,7 @@
     <h5>Hi, My deperment is Mechanical engineering but I like to software. I worked a few times mechanical engineer  and finally, I decided to continue my life as a software developer. I am always very eager to learn more in this field.  I would like to state that I am extremely devoted and enthusiastic about being effective and fast in business life and that I want to take on the responsibility required by the position with curiosity and enthusiasm. I am aware that willing, attentive, and careful work will definitely result in success. For this reason, I have no doubt that I can contribute to the places I work with my skills and work discipline. <h5>
 </details>
 
-<h2 align = "center">
-<img style="width:400px" src="gif/giff.gif" align = "center"></h2>
+<h2 align = "center"><a href="https://www.youtube.com/c/TayfunTp"><img style="width:400px" src="gif/giff.gif" align = "center"></a></h2>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Razumihin41&show_icons=true&locale=en" alt="Razumihin41" /></p><p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Razumihin41&show_icons=true&locale=en&layout=compact" alt="Razumihin41" /></p>
 
