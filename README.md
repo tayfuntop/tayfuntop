@@ -14,8 +14,6 @@
 <h2 align = "center" style="margin: -10px 0 -40px -15px;">
 <img style="width:400px" src="gif/giff.gif" align = "center"></h2>
 
----
-
 <div style="display:flex; justify-content:center;"><p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Razumihin41&show_icons=true&locale=en" alt="Razumihin41" /></p><p align="center" style="margin:25px 0 0 10px"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Razumihin41&show_icons=true&locale=en&layout=compact" alt="Razumihin41" /></p></div>
 
 
