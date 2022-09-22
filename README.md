@@ -1,4 +1,4 @@
-<h1 align = "center"><a target="_blank" href="https://www.youtube.com/c/TayfunTp"><img src="/image/youtube logo 2.png" width="30" ></a> Hi, I'm Tayfun <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<h1 align = "center"><a target="_blank" href="https://www.linkedin.com/in/tayfun-top-b7574220a/"><img src="/image/youtube logo 2.png" width="30" ></a> Hi, I'm Tayfun <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F74473&center=true&vCenter=true&width=433&lines=Front-end+Developer;Always+learning+new+things!"></a>
@@ -10,12 +10,12 @@
     <h5>Hi, My deperment is Mechanical engineering but I like to software. I worked a few times mechanical engineer  and finally, I decided to continue my life as a software developer. I am always very eager to learn more in this field.  I would like to state that I am extremely devoted and enthusiastic about being effective and fast in business life and that I want to take on the responsibility required by the position with curiosity and enthusiasm. I am aware that willing, attentive, and careful work will definitely result in success. For this reason, I have no doubt that I can contribute to the places I work with my skills and work discipline. <h5>
 </details>
 
-<h2 align = "center"><a href="https://www.youtube.com/c/TayfunTp"><img style="width:400px" src="gif/giff.gif" ></a></h2>
-
-<h3>💻 Most Used Languages</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Razumihin41&show_icons=true&locale=en&theme=dark" alt="Razumihin41" /></p>
+<h2 align = "center"><a href="https://www.linkedin.com/in/tayfun-top-b7574220a/"><img style="width:400px" src="gif/giff.gif" ></a></h2>
 
 <h3>🔥 Github Stats</h3>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Razumihin41&show_icons=true&locale=en&theme=dark" alt="Razumihin41" /></p>
+
+<h3>💻 Most Used Languages</h3>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Razumihin41&show_icons=true&locale=en&layout=compact&theme=dark" alt="Razumihin41" /></p>
 
 <h3>Connect with me:</h3>
