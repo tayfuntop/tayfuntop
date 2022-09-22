@@ -17,7 +17,7 @@
 
 
 <h3 align = "center">Connect with me:</h3>
-<h3 align = "center"><a target="_blank" href="https://www.linkedin.com/in/tayfun-top-b7374220a/"><img src="/image/Linkedin.png" width="40"> </a><a target="_blank" href="https://www.instagram.com/tayfun_tp/"><img src="/image/instagram.png" width="40"></a> <a target="_blank" href="https://www.youtube.com/c/TayfunTp"><img src="/image/youtube.png" width="3"></a></h3>
+<h3 align = "center"><a target="_blank" href="https://www.linkedin.com/in/tayfun-top-b7574220a/"><img src="/image/Linkedin.png" width="40"> </a><a target="_blank" href="https://www.instagram.com/tayfun_tp/"><img src="/image/instagram.png" width="40"></a> <a target="_blank" href="https://www.youtube.com/c/TayfunTp"><img src="/image/youtube.png" width="55"></a></h3>
 
 <h3 align = "center">Languages and Tools:</h3> 
 <h3 align = "center"><a href="https://en.wikipedia.org/wiki/Visual_Basic_for_Applications"><img src="/image/vba.png" width="40"></a><a target="_blank" href="https://html.com/"><img src="/image/html.png" width="40"></a><a href="#"><img src="/image/css.png" width="40"></a><a target="_blank" href="https://www.javascript.com/"><img src="/image/javascript.png" width="40"></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40"/> </a></h3></div>
