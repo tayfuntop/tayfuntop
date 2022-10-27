@@ -4,14 +4,15 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F74473&center=true&vCenter=true&width=433&lines=Front-end+Developer;Always+learning+new+things!"></a>
 </p>
 
-<details align="center" > 
-  <summary><h3>👨🏼‍💻 About Me</h3></summary>
-    <br>
-    <h5>Hi, My deparment is Mechanical engineering but I like to software. I worked a few times mechanical engineer  and finally, I decided to continue my life as a software developer. I am always very eager to learn more in this field.  I would like to state that I am extremely devoted and enthusiastic about being effective and fast in business life and that I want to take on the responsibility required by the position with curiosity and enthusiasm. I am aware that willing, attentive, and careful work will definitely result in success. For this reason, I have no doubt that I can contribute to the places I work with my skills and work discipline. <h5>
-</details>
-
 <h2 align = "center"><a href="https://www.linkedin.com/in/tayfun-top-b7574220a/"><img style="width:400px" src="gif/giff.gif" ></a></h2>
 
+<details align="center" > 
+  <summary><h3>👨🏼‍💻 About Me</h3></summary>
+
+<h5>Hi, My deparment is Mechanical engineering but I like to software. I worked a few times mechanical engineer  and finally, I decided to continue my life as a software developer. I am always very eager to learn more in this field.  I would like to state that I am extremely devoted and enthusiastic about being effective and fast in business life and that I want to take on the responsibility required by the position with curiosity and enthusiasm. I am aware that willing, attentive, and careful work will definitely result in success. For this reason, I have no doubt that I can contribute to the places I work with my skills and work discipline. <h5>
+
+<br>
+    
 <h3>🔥 Github Stats</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Razumihin41&show_icons=true&locale=en&" alt="Razumihin41" /></p>
 
@@ -27,3 +28,7 @@
 <p> <img src="https://komarev.com/ghpvc/?username=Razumihin41&label=Profile%20views&color=0e73b6&style=flat" alt="Razumihin41" /> </p>
 
 <p><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em></p>
+
+</details>
+
+
