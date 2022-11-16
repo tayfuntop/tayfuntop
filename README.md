@@ -14,10 +14,10 @@
 <br>
     
 <h3>🔥 Github Stats</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Razumihin41&show_icons=true&locale=en&" alt="Razumihin41" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tayfuntop&show_icons=true&locale=en&" alt="Razumihin41" /></p>
 
 <h3>💻 Most Used Languages</h3>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Razumihin41&show_icons=true&locale=en&layout=compact&" alt="Razumihin41" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tayfuntop&show_icons=true&locale=en&layout=compact&" alt="Razumihin41" /></p>
 
 <h3>Connect with me:</h3>
 <h3><a target="_blank" href="https://www.linkedin.com/in/tayfun-top-b7574220a/"><img src="/image/Linkedin.png" width="40"> </a><a target="_blank" href="https://www.instagram.com/tayfun_tp/"><img src="/image/instagram.png" width="40"></a> <a target="_blank" href="https://www.youtube.com/c/TayfunTp"><img src="/image/youtube.png" width="55"></a></h3>
@@ -25,7 +25,7 @@
 <h3>Languages and Tools:</h3> 
 <h3><a href="https://en.wikipedia.org/wiki/Visual_Basic_for_Applications"><img src="/image/vba.png" width="40"></a><a target="_blank" href="https://html.com/"><img src="/image/html.png" width="40"></a><a href="#"><img src="/image/css.png" width="40"></a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40"/></a> <a target="_blank" href="https://www.javascript.com/"><img src="/image/javascript.png" width="40"></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40"/> </a></h3></div>
 
-<p> <img src="https://komarev.com/ghpvc/?username=Razumihin41&label=Profile%20views&color=0e73b6&style=flat" alt="Razumihin41" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=tayfuntop&label=Profile%20views&color=0e73b6&style=flat" alt="tayfuntop" /> </p>
 
 <p><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em></p>
 
