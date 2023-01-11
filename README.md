@@ -10,6 +10,7 @@
   <summary><h2>👨🏼‍💻 More details about me</h2></summary>
 
 <h5> My deparment is Mechanical engineering but I like to software. I worked a few times mechanical engineer  and finally, I decided to continue my life as a software developer. I am always very eager to learn more in this field.  I would like to state that I am extremely devoted and enthusiastic about being effective and fast in business life and that I want to take on the responsibility required by the position with curiosity and enthusiasm. <h5>
+<h5><a href="https://tayfun-top-cv.surge.sh/">➔ You can arrive my cv here </a> <h5>
 
 <br>
     
