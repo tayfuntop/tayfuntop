@@ -15,10 +15,10 @@
 <br>
     
 <h3>🔥 Github Stats</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tayfuntop&show_icons=true&locale=en&" alt="Razumihin41" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tayfuntop&show_icons=true&locale=en&" alt="tayfuntop" /></p>
 
 <h3>💻 Most Used Languages</h3>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tayfuntop&show_icons=true&locale=en&layout=compact&" alt="Razumihin41" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tayfuntop&show_icons=true&locale=en&layout=compact&" alt="tayfuntop" /></p>
 
 <h3>Connect with me:</h3>
 <h3><a target="_blank" href="https://www.linkedin.com/in/tayfun-top-b7574220a/"><img src="/image/Linkedin.png" width="40"> </a><a target="_blank" href="https://www.instagram.com/tayfun_tp/"><img src="/image/instagram.png" width="40"></a> <a target="_blank" href="https://www.youtube.com/c/TayfunTp"><img src="/image/youtube.png" width="55"></a></h3>
