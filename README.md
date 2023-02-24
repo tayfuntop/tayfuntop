@@ -1,7 +1,7 @@
 <h1 align = "center"><a target="_blank" href="https://www.linkedin.com/in/tayfun-top-b7574220a/"><img src="/image/youtube logo 2.png" width="30" ></a> Hi, I'm Tayfun <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F74473&center=true&vCenter=true&width=433&lines=Front-end+Developer;Always+learning+new+things!"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F74473&center=true&vCenter=true&width=433&lines=Frontend+developer;Always+learning+new+things"></a>
 </p>
 
 <h2 align = "center"><a href="https://www.linkedin.com/in/tayfun-top-b7574220a/"><img style="width:400px" src="gif/giff.gif" ></a></h2>
@@ -13,19 +13,44 @@
 <h5><a href="https://tayfuntop-cv.surge.sh/">➔ You can arrive my cv here </a> <h5>
 
 <br>
-    
-<h3>🔥 Github Stats</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tayfuntop&show_icons=true&locale=en&" alt="tayfuntop" /></p>
-
-<h3>💻 Most Used Languages</h3>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tayfuntop&show_icons=true&locale=en&layout=compact&" alt="tayfuntop" /></p>
 
 <h3>Connect with me:</h3>
-<h3><a target="_blank" href="https://www.linkedin.com/in/tayfun-top-b7574220a/"><img src="/image/Linkedin.png" width="40"> </a><a target="_blank" href="https://www.instagram.com/tayfun_tp/"><img src="/image/instagram.png" width="40"></a> <a target="_blank" href="https://www.youtube.com/c/TayfunTp"><img src="/image/youtube.png" width="55"></a></h3>
+
+<a href="https://www.linkedin.com/in/tayfuntop">
+<img src="https://img.shields.io/badge/Linkedin-282C34?logo=linkedin&logoColor=02adfc" alt="Linkedin logo" title="Linkedin" height="25" />
+</a>
+<a href="https://www.youtube.com/c/TayfunTp">
+<img src="https://img.shields.io/badge/Youtube-282C34?logo=youtube&logoColor=ff0202" alt="Youtube logo" title="Youtube" height="25" />
+</a>
+<a href="https://www.instagram.com/tayfun_tp/">
+<img src="https://img.shields.io/badge/Instagram-282C34?logo=instagram&logoColor=e50259" alt="Instagram logo" title="Instagram" height="25" />
+</a>
+  
 
 <h3>Languages and Tools:</h3> 
-<h3><a href="https://en.wikipedia.org/wiki/Visual_Basic_for_Applications"><img src="/image/vba.png" width="40"></a><a target="_blank" href="https://html.com/"><img src="/image/html.png" width="40"></a><a href="#"><img src="/image/css.png" width="40"></a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40"/></a> <a target="_blank" href="https://www.javascript.com/"><img src="/image/javascript.png" width="40"></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40"/> </a><a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://erdincuzun.com/wp-content/uploads/2019/04/react-native-logo.png" alt="react" width="40"/> </a></h3></div>
 
+<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />
+<img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />
+<img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />
+<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
+<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
+<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
+<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=43853D" alt="Node.js logo" title="Node.js" height="25" />
+<img src="https://img.shields.io/badge/Express.js-282C34?logo=express&logoColor=green" alt="Express logo" title="Express.js" height="25" />
+<img src="https://img.shields.io/badge/MongoDB-282C34?logo=Mongodb&logoColor=4EA94B" alt="Mongodb logo" title="Mongodb" height="25" />
+<img src="https://img.shields.io/badge/Tailwind-282C34?logo=tailwind%20css&logoColor=38B2AC" alt="Tailwind logo" title="Tailwind" height="25" />
+<img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=9267ce" alt="Bootstrap logo" title="Bootstrap" height="25" />
+<img src="https://img.shields.io/badge/Ant%20Design-282C34?logo=ant-design&logoColor=07a5f9" alt="Antd logo" title="Antd" height="25" />
+<img src="https://img.shields.io/badge/Material--UI-282C34?logo=mui&logoColor=0081CB" alt="Mui logo" title="Mui" height="25" />
+<img src="https://img.shields.io/badge/React%20Hook%20Form-282C34?logo=react-hook-form&logoColor=pink" alt="Hook form logo" title="Hook form" height="25" />
+<img src="https://img.shields.io/badge/React%20Router-282C34?logo=react-router&logoColor=CA4245" alt="React router logo" title="Router" height="25" />
+<img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="git logo" title="Git" height="25" />
+  
+</div>
+
+<br>
+<br>
+  
 <p> <img src="https://komarev.com/ghpvc/?username=tayfuntop&label=Profile%20views&color=0e73b6&style=flat" alt="tayfuntop" /> </p>
 
 <p><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em></p>
