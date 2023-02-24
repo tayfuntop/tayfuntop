@@ -6,12 +6,17 @@
 
 <h2 align = "center"><a href="https://www.linkedin.com/in/tayfun-top-b7574220a/"><img style="width:400px" src="gif/giff.gif" ></a></h2>
 
-<details align="center" > 
-  <summary><h2>👨🏼‍💻 More details about me</h2></summary>
 
-<h5> My deparment is Mechanical engineering but I like to software. I worked a few times mechanical engineer  and finally, I decided to continue my life as a software developer. I am always very eager to learn more in this field.  I would like to state that I am extremely devoted and enthusiastic about being effective and fast in business life and that I want to take on the responsibility required by the position with curiosity and enthusiasm. <h5>
+
+
 
 <br>
+
+<div align = "center">
+
+<h2>👨🏼‍💻 About me</h2>
+
+<h5> My deparment is Mechanical engineering but I like to software. I worked a few times mechanical engineer  and finally, I decided to continue my life as a software developer. I am always very eager to learn more in this field.  I would like to state that I am extremely devoted and enthusiastic about being effective and fast in business life and that I want to take on the responsibility required by the position with curiosity and enthusiasm. <h5>
 
 <h3>Connect with me:</h3>
 
@@ -47,7 +52,7 @@
 <img src="https://img.shields.io/badge/React%20Router-282C34?logo=react-router&logoColor=CA4245" alt="React router logo" title="Router" height="25" />
 <img src="https://img.shields.io/badge/Amazon%20AWS-282C34?logo=amazon-aws&logoColor=white" alt="Amazon-aws logo" title="Amazon-aws" height="25" />
   
-</div>
+
 
 <br>
 <br>
@@ -56,6 +61,5 @@
 
 <p><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em></p>
 
-</details>
-
+</div>
 
