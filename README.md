@@ -40,9 +40,6 @@
 <img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=9267ce" alt="Bootstrap logo" title="Bootstrap" height="25" />
 <img src="https://img.shields.io/badge/Ant%20Design-282C34?logo=ant-design&logoColor=07a5f9" alt="Antd logo" title="Antd" height="25" />
 <img src="https://img.shields.io/badge/Material--UI-282C34?logo=mui&logoColor=0081CB" alt="Mui logo" title="Mui" height="25" />
-<img src="https://img.shields.io/badge/React%20Hook%20Form-282C34?logo=react-hook-form&logoColor=pink" alt="Hook form logo" title="Hook form" height="25" />
-<img src="https://img.shields.io/badge/React%20Router-282C34?logo=react-router&logoColor=CA4245" alt="React router logo" title="Router" height="25" />
-<img src="https://img.shields.io/badge/Amazon%20AWS-282C34?logo=amazon-aws&logoColor=white" alt="Amazon-aws logo" title="Amazon-aws" height="25" />
   
 
 
