@@ -33,6 +33,7 @@
 <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
 <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
 <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=43853D" alt="Node.js logo" title="Node.js" height="25" />
+<img src="https://img.shields.io/badge/Socket.IO-white?logo=Socket.IO&logoColor=black" alt="Socket.io logo" title="Socket.io" height="25" />
 <img src="https://img.shields.io/badge/Express.js-282C34?logo=express&logoColor=green" alt="Express logo" title="Express.js" height="25" />
 <img src="https://img.shields.io/badge/MongoDB-282C34?logo=Mongodb&logoColor=4EA94B" alt="Mongodb logo" title="Mongodb" height="25" />
 <img src="https://img.shields.io/badge/Json%20Web%20Tokens-282C34?logo=json-web-tokens&logoColor=pink" alt="Json web tokens logo" title="Json token" height="25" />
@@ -40,8 +41,6 @@
 <img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=9267ce" alt="Bootstrap logo" title="Bootstrap" height="25" />
 <img src="https://img.shields.io/badge/Ant%20Design-282C34?logo=ant-design&logoColor=07a5f9" alt="Antd logo" title="Antd" height="25" />
 <img src="https://img.shields.io/badge/Material--UI-282C34?logo=mui&logoColor=0081CB" alt="Mui logo" title="Mui" height="25" />
-  
-
 
 <br>
 <br>
